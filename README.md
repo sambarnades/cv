@@ -1,2 +1,0 @@
-# cv
- A CV website.

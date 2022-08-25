@@ -1,0 +1,148 @@
+body{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  margin:0;
+}
+
+h1, h2{
+  color: #66BFBF;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2{
+  weight: normal;
+}
+
+h3{
+  color: #11999E
+}
+
+p{
+  color: #40514E;
+}
+
+hr{
+  width: 5%;
+  border-top: 7px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-style: dotted;
+  border-color: silver;
+  margin: 70px auto 70px auto;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+}
+
+.cloud{
+  position:relative;
+}
+
+.bottom-cloud{
+  bottom:200px;
+  left:50px;
+}
+
+.top-cloud{
+  bottom:300px;
+  right:100px;
+}
+
+.underlined{
+  text-decoration: underline;
+}
+
+.skill-row{
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.middle-container{
+  width: 50%;
+  margin:auto;
+}
+
+.profile-img{
+  width: 30%;
+  margin-top: 30px;
+}
+
+.code-img{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.float-right{
+  float: right;
+  margin-left: 30px;
+}
+
+.align-right
+{
+  text-align: right;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 40px auto 40px auto;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 30px;
+  padding: 50px;
+}
+
+.bottom-container p{
+  color: #EAF6F6;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin:auto 12px auto 12px;
+}
+
+#top-title{
+  padding-top: 70px;
+  font-size: 7rem;
+  margin: 0 auto 10px auto;
+}
+
+#subtitle{
+  font-size: 2.5rem;
+  margin: 0 auto 0 auto;
+}
